@@ -1,6 +1,8 @@
-# React Hooks
+# Base ReactJS
 
-Module 08 - Using React Hooks from Rocketseat bootcamp 2019.
+Base ReactJS app configured to use ESlint and Prettier from Airbnb.
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
